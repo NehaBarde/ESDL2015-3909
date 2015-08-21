@@ -3,5 +3,4 @@ addition
 subtraction
 multiplication
 division
-
-calculators always help
+that's whay log books are no use
