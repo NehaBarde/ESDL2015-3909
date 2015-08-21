@@ -3,4 +3,5 @@ addition
 subtraction
 multiplication
 division
-log books are useless
+
+calculators always help
